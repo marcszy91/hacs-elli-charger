@@ -1,0 +1,22 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Elli Ladestation Einrichtung",
+        "description": "Geben Sie Ihre Elli-Zugangsdaten ein",
+        "data": {
+          "email": "E-Mail",
+          "password": "Passwort"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Verbindung zur Elli API fehlgeschlagen",
+      "invalid_auth": "Ungültige E-Mail oder Passwort",
+      "unknown": "Ein unerwarteter Fehler ist aufgetreten"
+    },
+    "abort": {
+      "already_configured": "Dieses Elli-Konto ist bereits konfiguriert"
+    }
+  }
+}

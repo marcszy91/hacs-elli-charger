@@ -1,0 +1,12 @@
+{
+  "domain": "elli_charger",
+  "name": "Elli Charger",
+  "codeowners": ["@marcszy91"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/marcszy91/hacs-elli-charger",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/marcszy91/hacs-elli-charger/issues",
+  "requirements": ["elli-client==1.0.3"],
+  "version": "1.0.0"
+}

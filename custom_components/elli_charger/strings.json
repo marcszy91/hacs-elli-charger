@@ -1,0 +1,22 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Elli Charger Setup",
+        "description": "Enter your Elli account credentials",
+        "data": {
+          "email": "Email",
+          "password": "Password"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect to Elli API",
+      "invalid_auth": "Invalid email or password",
+      "unknown": "Unexpected error occurred"
+    },
+    "abort": {
+      "already_configured": "This Elli account is already configured"
+    }
+  }
+}
