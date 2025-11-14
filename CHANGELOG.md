@@ -1,3 +1,10 @@
+## 1.0.0 (2025-11-14)
+
+
+### Features
+
+* initial release of Elli Charger Home Assistant integration ([f86837a](https://github.com/marcszy91/hacs-elli-charger/commit/f86837aa4c1a9708f9a1a6a72cdda632c855c8ee))
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
